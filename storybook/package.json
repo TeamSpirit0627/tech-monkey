@@ -10,7 +10,7 @@
   "dependencies": {
     "@atlaskit/button": "^15.1.4",
     "@atlaskit/icon": "^11.0.1",
-    "@atlaskit/modal-dialog": "^11.2.5",
+    "@atlaskit/modal-dialog": "^12.15.3",
     "@atlaskit/tooltip": "^17.1.2",
     "@babel/core": "^7.19.6",
     "@babel/preset-env": "^7.19.4",
