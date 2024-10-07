@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@atlaskit/button": "^15.1.4",
-    "@atlaskit/icon": "^11.0.1",
+    "@atlaskit/icon": "^22.20.2",
     "@atlaskit/modal-dialog": "^11.2.5",
     "@atlaskit/tooltip": "^17.1.2",
     "@babel/core": "^7.19.6",
